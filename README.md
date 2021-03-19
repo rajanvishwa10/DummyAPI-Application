@@ -1,6 +1,6 @@
 # DummyAPI-Application
 
-<h1>MVVM architecture + DummyApi
+<h1>MVVM architecture + DummyApi + Retrofit
 
 <h3>Fetching Data from Api </h3>
 <p align="center">
